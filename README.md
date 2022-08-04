@@ -2,7 +2,7 @@
 
 
 
-<p align="center">
+<p align="center" style="font-size: 32px">
     &#10024; HELLO &#10024;
 </p>
 
