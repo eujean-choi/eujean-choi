@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&section=header&color=gradient&height=300&section=header&text=Eujean%20Choi&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Waving&section=header&color=0:74CDD1,100:7E38B7&fontColor=FFFFFF&height=300&section=header&text=Eujean%20Choi&fontSize=90)
 
 
 
