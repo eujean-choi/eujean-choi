@@ -12,5 +12,5 @@
 <br>
 <br>
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=eujean-choi&show_icons=true&hide=prs,issues&theme=buefy&hide_border=true" alt="github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eujean-choi&layout=compact&theme=buefy&hide_border=true" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=eujean-choi&show_icons=true&hide=prs,issues&theme=buefy&hide_border=true" alt="github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eujean-choi&layout=compact&theme=buefy&hide_border=true" alt="most used languages"/> |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
